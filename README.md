@@ -9,3 +9,5 @@ The mass query gives a list of the Meteorites that are within 10 grams of the ma
 The year query gives a list of the Meteorites that fell to Earth on the year the user inputs.
 
 The location gives a single Meteorite that is closest to the location the user inputs.
+
+Note: The Meteorite_Landing.csv file is too large for all Meteorites to be accounted for.
