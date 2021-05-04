@@ -11,3 +11,5 @@ The year query gives a list of the Meteorites that fell to Earth on the year the
 The location gives a single Meteorite that is closest to the location the user inputs.
 
 Note: The Meteorite_Landing.csv file is too large for all Meteorites to be accounted for.
+
+Note: This project uses a Singly-Linked List to hold the Meteorites to analyze.
