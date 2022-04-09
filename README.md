@@ -1,15 +1,10 @@
-# project2
+# 基于股票回购的量化交易策略
 
-This project uses the Meteorite_Landings.csv file as the data set. The FallenStars.java file is the Driver class.
+## 更新
+1.之前的策略有点问题，现予以删除（2021.11.07）
+2.作者忙于写论文，后续将视情况继续更新（2022.01.07）
+3.作者正在写博士大论文，并且忙于招聘，后续可能遥遥无期了。可以关注我即将发表的股票回购论文，文中有提及股票回购的策略（2022.04.09）
 
-In the FallenStars class, there are 3 queries (mass, year, location). 
+## 说明
 
-The mass query gives a list of the Meteorites that are within 10 grams of the mass the user inputs.
 
-The year query gives a list of the Meteorites that fell to Earth on the year the user inputs.
-
-The location gives a single Meteorite that is closest to the location the user inputs.
-
-Note: The Meteorite_Landing.csv file is too large for all Meteorites to be accounted for.
-
-Note: This project uses a Singly-Linked List to hold the Meteorites to analyze.
